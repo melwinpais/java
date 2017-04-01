@@ -10,3 +10,26 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+
+# Copied from GTAU
+*.iml
+**/*.iml
+**/*.ipr
+**/.idea
+**/*.exe
+**/*.log
+*.log
+target
+.settings
+.project
+.classpath
+.tomcatplugin
+work
+.#webclasspath
+.idea
+prepros.cfg
+logs
+.metadata/*
+.DS_Store
+
